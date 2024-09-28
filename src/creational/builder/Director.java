@@ -1,4 +1,4 @@
-package creational.builderPattern;
+package creational.builder;
 
 public class Director {
 
